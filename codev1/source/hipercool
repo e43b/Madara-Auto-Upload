@@ -192,7 +192,7 @@ sinopse = str(summary_heading.find_next('div').find('p')) if summary_heading els
 manga_status = soup.find('div', class_='status-content').get_text(strip=True) if soup.find('div', class_='status-content') else ""
 
 # Extraindo o ano de lançamento
-release_year = None  # Esse campo pode precisar de um método diferente dependendo do site
+release_year = ""  # Esse campo pode precisar de um método diferente dependendo do site
 
 # Extraindo os links dos capítulos
 chapter_links = []
