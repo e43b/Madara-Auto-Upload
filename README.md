@@ -113,7 +113,7 @@ Verifique o arquivo `sources.json` para mais detalhes. Caso queira adicionar sup
 
 ### Tutorial de Criação de Extensões
 
-Deseja adicionar suporte para novos sites? Acesse o tutorial completo [aqui](link para extensao.md).
+Deseja adicionar suporte para novos sites? Acesse o tutorial completo [aqui](extensao.md).
 
 ## Contribuição
 
