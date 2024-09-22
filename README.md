@@ -1,6 +1,8 @@
 # Madara Massive Uploader
 
-Este script automatiza a postagem de mangas e oneshots em sites WordPress que utilizam o tema Madara.
+Este script automatiza a postagem de mangas e oneshots em sites WordPress que utilizam o tema **Madara**.
+
+> **Versão do tema utilizada neste projeto**: [Madara Versão 1.8.0.1 - 2024.07.30](https://mangabooth.com/product/wp-manga-theme-madara/).
 
 ## Instruções para Uso
 
