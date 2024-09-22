@@ -71,7 +71,7 @@ def processar_manga(link, sources):
         print("Download concluído. Iniciando upload...")
 
         # Executa o script de upload
-        os.system("python3 autov2.py")
+        os.system("python3 auto.py")
 
         print(f"Upload de {link} concluído.")
     else:
