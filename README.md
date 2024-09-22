@@ -101,7 +101,7 @@ Atualmente, o script suporta download e upload automático de sites como:
 - **brasilhentai.com**
 - **hentaitokyo.net**
 - **mundohentaioficial.com**
-- **www.quadrinhosdesexo.com**
+- **quadrinhosdesexo.com**
 - **meuhentai.com**
 - **superecchi.com**
 - **nhentaibr.com**
