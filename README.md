@@ -1,4 +1,4 @@
-# Madara Massive Uploader
+# Madara Massive Uploader [![Views](https://hits.sh/github.com/e43bmdra/hits.svg)](https://github.com/e43b/Madara-Auto-Upload/)
 
 This script automates the posting of mangas and oneshots on WordPress sites using the **Madara** theme.
 
